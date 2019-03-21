@@ -6,7 +6,10 @@ namespace MyApp.Models
 {
     public class Employee
     {
-
+        public Employee()
+        {
+            this.ManagedEmployees = new List<Employee>();
+        }
         [Key]
         public int ID { get; set; }
 
@@ -25,7 +28,6 @@ namespace MyApp.Models
 
         public int? ManagerId { get; set; }
         public Employee Manager { get; set; }
-
 
         public ICollection<Employee> ManagedEmployees { get; set; }
     }

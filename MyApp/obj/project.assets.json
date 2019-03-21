@@ -3489,11 +3489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3512,8 +3512,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\Automapper\\Automapper.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\Automapper\\Automapper.csproj"
+            "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\Automapper\\Automapper.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\Automapper\\Automapper.csproj"
             }
           }
         }

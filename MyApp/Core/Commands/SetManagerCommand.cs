@@ -31,16 +31,13 @@ namespace MyApp.Core.Commands
             if (employee == null || manager == null)
             {
                 throw new ArgumentNullException($"You have null value!");
-                
             }
-
             employee.Manager = manager;
             this.context.SaveChanges();
 
             var addressDto = this.mapper.CreateMappedObject<SetManagerDto>(employee);
             var result1 = addressDto.ToString();
             return result1;
-            
         }
     }
 }

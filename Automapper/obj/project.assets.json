@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\Automapper\\Automapper.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\Automapper\\Automapper.csproj",
       "projectName": "Automapper",
-      "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\Automapper\\Automapper.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\Automapper\\Automapper.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\Automapper\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\Automapper  - Skeleton\\CustomAutomapper\\Automapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
