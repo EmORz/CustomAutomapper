@@ -35,7 +35,7 @@ namespace MyApp.Core.Commands
 
             sb.AppendLine($"{managerDto.FirstName} {managerDto.LastName} | Employees: {managerDto.ManagedEmployees.Count}");
 
-                foreach (var employee in managerDto.ManagedEmployees)
+            foreach (var employee in managerDto.ManagedEmployees)
             {
                 sb.AppendLine($"   - {employee.FirstName} {employee.LastName} - ${employee.Salary:f2}");
             }
